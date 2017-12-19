@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Robs Butler</title>
+</head>
+<body>
+<p><h1>Hey Robyn</h1></p>
+<p><h2>I love you lots</h2></p>
+<p><h1>Like jelly tots</h1></p>
+<p><h3>In My</h3><h1>Opinion</h1></p>
+<p><h1>You</h1><h2>couldn't be</h2><h1>Beat</h1></p>
+<p><h4>Though you often like to</h4><h1>EAT</h1></p>
+</body>
+</html>
